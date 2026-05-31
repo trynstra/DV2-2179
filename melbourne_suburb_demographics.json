@@ -1,0 +1,43 @@
+[
+    {
+        "CLUE small area": "Carlton",
+        "pop_pct_chinese_ancestry": 15.2,
+        "pop_pct_italian_ancestry": 10.8,
+        "pop_pct_vietnamese_ancestry": 1.4,
+        "pop_pct_greek_ancestry": 1.1,
+        "pop_pct_japanese_ancestry": 1.1,
+        "top_non_english_lang_pct": 12.4
+    },
+    {
+        "CLUE small area": "North Melbourne",
+        "pop_pct_chinese_ancestry": 17.8,
+        "pop_pct_italian_ancestry": 4.2,
+        "pop_pct_vietnamese_ancestry": 2.8,
+        "pop_pct_japanese_ancestry": 0.8,
+        "top_non_english_lang_pct": 14.2
+    },
+    {
+        "CLUE small area": "Melbourne (CBD)",
+        "pop_pct_chinese_ancestry": 24.1,
+        "pop_pct_italian_ancestry": 3.4,
+        "pop_pct_vietnamese_ancestry": 2.1,
+        "pop_pct_japanese_ancestry": 2.2,
+        "top_non_english_lang_pct": 21.8
+    },
+    {
+        "CLUE small area": "Docklands",
+        "pop_pct_chinese_ancestry": 21.4,
+        "pop_pct_italian_ancestry": 3.1,
+        "pop_pct_vietnamese_ancestry": 1.2,
+        "pop_pct_japanese_ancestry": 1.3,
+        "top_non_english_lang_pct": 18.5
+    },
+    {
+        "CLUE small area": "Southbank",
+        "pop_pct_chinese_ancestry": 18.9,
+        "pop_pct_italian_ancestry": 2.6,
+        "pop_pct_vietnamese_ancestry": 0.9,
+        "pop_pct_japanese_ancestry": 1.5,
+        "top_non_english_lang_pct": 15.6
+    }
+]
